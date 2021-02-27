@@ -1,6 +1,6 @@
 # PyTorch 1.7.0 for the Raspberry Pi 64-bit OS
 Please find your **linux-aarch64** installation wheel here. The **cpXX** number refers to your Python3 version.<br/><br/>
-**All wheels have a dependency on OpenCV. Make sure you have OpenCV installed. [Our guide is here](https://qengineering.eu/install-opencv-4.5-on-raspberry-64-os.html)**<br/><br/>
+**All wheels have a dependency on OpenCV. Make sure you have OpenCV installed. [Our guide is here...](https://qengineering.eu/install-opencv-4.5-on-raspberry-64-os.html)**<br/><br/>
 ## 64-bit OS (Python 3.7)
 PyTorch installation files for the Raspberry Pi 3/4 with 64-bit operating system.<br/><br/>
 For the installation guide see [Install PyTorch](https://qengineering.eu/install-pytorch-on-raspberry-pi-4.html) <br/><br/>
