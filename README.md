@@ -14,6 +14,9 @@ Download TorchVision wheel **torchvision-0.8.0a0+291f7e2-cp38-cp38-linux_aarch64
 PyTorch installation files for the Raspberry Pi 3/4 with Ubuntu 18.04 operating system.<br/><br/>
 Download PyTorch wheel **torch-1.7.1a0-cp36-cp36m-linux_aarch64.whl** from [Gdrive](https://drive.google.com/file/d/1g1nXXD1uwFDjgdzR40-axzNYoHnEniVs/view?usp=sharing) <br/><br/>
 Download TorchVision wheel **torchvision-0.8.0a0+291f7e2-cp36-cp36m-linux_aarch64.whl** from [Gdrive](https://drive.google.com/file/d/10NC1ThTwKqV5endnvNEzCDXX7AKT5Hrd/view?usp=sharing)
+
+------
+
 # PyTorch 1.7.0 for the Raspberry Pi 64-bit OS
 Please find your **linux-aarch64** installation wheel here. The **cpXX** number refers to your Python3 version.<br/><br/>
 **All wheels have a dependency on OpenCV. Make sure you have OpenCV installed. [Our guide is here...](https://qengineering.eu/install-opencv-4.5-on-raspberry-64-os.html)**<br/><br/>
