@@ -26,7 +26,7 @@ Download TorchVision wheel **torchvision-0.8.1a0+45f960c-cp37-cp37m-linux_aarch6
 ## Ubuntu 20.04 (Python 3.8)
 PyTorch installation files for the Raspberry Pi 3/4 with Ubuntu 20.04 operating system.<br/><br/>
 Download PyTorch wheel **torch-1.7.0a0-cp38-cp38-linux_aarch64.whl** from [Gdrive](https://drive.google.com/file/d/1w-1IVZNJ5-ySqwTk2lfFzvndN4_r5oXQ/view?usp=sharing) <br/><br/>
-Download TorchVision wheel **torchvision-0.8.0a0+291f7e2-cp38-cp38-linux_aarch64.whl** from [Gdrive](https://drive.google.com/file/d/1BJUJ6wIzhCymkvwbGrtZJ3ij5tGAUycO/view?usp=sharing)
+Download TorchVision wheel **torchvision-0.8.1a0+45f960c-cp38-cp38-linux_aarch64.whl** from [Gdrive](https://drive.google.com/file/d/17oThh6GO0MC5Y7hdyrP0XjTlxtrVLuXT/view?usp=sharing)
 ## Ubuntu 18.04 (Python 3.6)
 PyTorch installation files for the Raspberry Pi 3/4 with Ubuntu 18.04 operating system.<br/><br/>
 Download PyTorch wheel **torch-1.7.0a0-cp36-cp36m-linux_aarch64.whl** from [Gdrive](https://drive.google.com/file/d/1g1nXXD1uwFDjgdzR40-axzNYoHnEniVs/view?usp=sharing) <br/><br/>
