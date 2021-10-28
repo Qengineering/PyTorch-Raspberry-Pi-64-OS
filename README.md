@@ -6,6 +6,7 @@ PyTorch installation files for the Raspberry Pi 3/4 with 64-bit operating system
 For the installation guide see [Install PyTorch](https://qengineering.eu/install-pytorch-on-raspberry-pi-4.html) <br/><br/>
 Download PyTorch wheel **torch-1.10.0a0+git36449ea-cp37-cp37m-linux_aarch64.whl** from [Gdrive](https://drive.google.com/file/d/1CQLbc2jUQoh86YMI4mslS2Dj0wZrHpk-/view?usp=sharing) <br/><br/>
 Download TorchVision wheel **torchvision-0.11.0a0+fa347eb-cp37-cp37m-linux_aarch64.whl** from [Gdrive](https://drive.google.com/file/d/11Eqrt1lfBNqeTOkQ0-UaGe4OgQekB6NT/view?usp=sharing)<br/><br/>
+Download LibTorch C++ API libraries **libTorch_1.10.0.tar.gz** from [Gdrive](https://drive.google.com/file/d/1dUHOW8HJ1bkjxJb1NbEWQvb93z9nVw1t/view?usp=sharing)
 # PyTorch 1.9.0 for the Raspberry Pi 64-bit OS
 Please find your **linux-aarch64** installation wheel here. The **cpXX** number refers to your Python3 version.<br/><br/>
 ## 64-bit OS (Python 3.7)
