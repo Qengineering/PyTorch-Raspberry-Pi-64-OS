@@ -1,5 +1,14 @@
 ![output image](https://qengineering.eu/images/SDcard16GB_tiny.jpg) Find PyTorch and TorchVision with other frameworks and deep-learning examples on our [SD-image](https://github.com/Qengineering/RPi-image)
-# PyTorch 1.10.0 for the Raspberry Pi 64-bit OS
+# PyTorch 1.10.0 for the RPi 64-bit Bullseye
+Please find your **linux-aarch64** installation wheel here. The **cpXX** number refers to your Python3 version.<br/><br/>
+## 64-bit OS (Python 3.9)
+PyTorch installation files for the Raspberry Pi 3/4 with 64-bit operating system.<br/><br/>
+For the installation guide see [Install PyTorch](https://qengineering.eu/install-pytorch-on-raspberry-pi-4.html) <br/><br/>
+Download PyTorch wheel **torch-1.10.0a0+git36449ea-cp39-cp39-linux_aarch64.whl** from [Gdrive](https://drive.google.com/file/d/1jqJgtBcB7HBivJ3H4KQZrU4epT_YP-eM/view?usp=sharing) <br/><br/>
+<!--
+Download TorchVision wheel **torchvision-0.11.0a0+fa347eb-cp37-cp37m-linux_aarch64.whl** from [Gdrive](https://drive.google.com/file/d/1WzQEUZ5d2GKEHzLO6Ms55typXyWi0oZs/view?usp=sharing)<br/><br/>
+Download LibTorch C++ API libraries **libtorch_1.10.0.tar.gz** from [Gdrive](https://drive.google.com/file/d/1WzQEUZ5d2GKEHzLO6Ms55typXyWi0oZs/view?usp=sharing)-->
+# PyTorch 1.10.0 for the RPi 64-bit Buster
 Please find your **linux-aarch64** installation wheel here. The **cpXX** number refers to your Python3 version.<br/><br/>
 ## 64-bit OS (Python 3.7)
 PyTorch installation files for the Raspberry Pi 3/4 with 64-bit operating system.<br/><br/>
