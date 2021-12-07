@@ -1,4 +1,5 @@
-![output image](https://qengineering.eu/images/SDcard16GB_tiny.jpg) Find PyTorch and TorchVision with other frameworks and deep-learning examples on our [SD-image](https://github.com/Qengineering/RPi-image)
+![output image](https://qengineering.eu/images/SDcard16GB_tiny.jpg) Find PyTorch and TorchVision with other frameworks and deep-learning examples on our [SD-image](https://github.com/Qengineering/RPi-image)<br/><br/>
+[![paypal](https://qengineering.eu/images/TipJarSmall4.png)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=CPZTM5BB3FCYL) <br/><br/>
 # PyTorch 1.10.0 for the RPi 64-bit Bullseye
 Please find your **linux-aarch64** installation wheel here. The **cpXX** number refers to your Python3 version.<br/><br/>
 ## 64-bit OS (Python 3.9)
