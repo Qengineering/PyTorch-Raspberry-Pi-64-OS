@@ -2,7 +2,7 @@
 ![output image]( https://qengineering.eu/images/PyTorch_icon.webp )<br/><br/>
 
 Find your operating system and Pytorch version in the table below. Follow the instructions in the provided guide.<br/>
-The Jetson Nano wheels can also be used on the (AGX) Xavier.<br/>
+The Jetson Nano wheels supports **CUDA 10.2**, **cuDNN 8.0** and **NEON**. They can also be used on the (AGX) Xavier.<br/>
 
 -----------------
 
@@ -18,6 +18,7 @@ The Jetson Nano wheels can also be used on the (AGX) Xavier.<br/>
 We compiled all wheels with the **clang** compiler to prevent issues with the ARM NEON registers and the GNU compiler.<br/>
 For instance [#61110](https://github.com/pytorch/pytorch/issues/61110) and [#65673](https://github.com/pytorch/pytorch/issues/65673).<br/><br/>
 ![output image]( https://qengineering.eu/images/ClangRPi.png )<br/><br/>
+![output image]( https://qengineering.eu/images/Torch_1_10_0_Jetson_Succes_GitHub.webp )<br/><br/>
 
 
 #### :heavy_exclamation_mark: C++ programmers please note
