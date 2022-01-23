@@ -1,89 +1,39 @@
-![output image](https://qengineering.eu/images/SDcard16GB_tiny.jpg) Find PyTorch and TorchVision with other frameworks and deep-learning examples on our [SD-image](https://github.com/Qengineering/RPi-image)<br/><br/>
-[![paypal](https://qengineering.eu/images/TipJarSmall4.png)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=CPZTM5BB3FCYL) <br/><br/>
-# PyTorch 1.10.0 for the RPi 64-bit Bullseye
-Please find your **linux-aarch64** installation wheel here. The **cpXX** number refers to your Python3 version.<br/><br/>
-## 64-bit OS (Python 3.9)
-PyTorch installation files for the Raspberry Pi 3/4 with 64-bit operating system.<br/><br/>
-For the installation guide see [Install PyTorch](https://qengineering.eu/install-pytorch-on-raspberry-pi-4.html) <br/><br/>
-Download PyTorch wheel **torch-1.10.0a0+git36449ea-cp39-cp39-linux_aarch64.whl** from [Gdrive](https://drive.google.com/file/d/1jqJgtBcB7HBivJ3H4KQZrU4epT_YP-eM/view?usp=sharing) <br/><br/>
-Download TorchVision wheel **torchvision-0.11.0a0+fa347eb-cp39-cp39-linux_aarch64.whl** from [Gdrive](https://drive.google.com/file/d/10tALY2JQOzpfZQi4W-72yuiLItOOc2qn/view?usp=sharing)<br/><br/>
-Download LibTorch C++ API libraries **libTorch_cp39_1.10.0.tar.gz** from [Gdrive](https://drive.google.com/file/d/1KOQz2fy1t2x_jdTj8Gc807MzFxN_spOV/view?usp=sharing)
-# PyTorch 1.10.0 for the RPi 64-bit Buster
-Please find your **linux-aarch64** installation wheel here. The **cpXX** number refers to your Python3 version.<br/><br/>
-## 64-bit OS (Python 3.7)
-PyTorch installation files for the Raspberry Pi 3/4 with 64-bit operating system.<br/><br/>
-For the installation guide see [Install PyTorch](https://qengineering.eu/install-pytorch-on-raspberry-pi-4.html) <br/><br/>
-Download PyTorch wheel **torch-1.10.0a0+git36449ea-cp37-cp37m-linux_aarch64.whl** from [Gdrive](https://drive.google.com/file/d/1CQLbc2jUQoh86YMI4mslS2Dj0wZrHpk-/view?usp=sharing) <br/><br/>
-Download TorchVision wheel **torchvision-0.11.0a0+fa347eb-cp37-cp37m-linux_aarch64.whl** from [Gdrive](https://drive.google.com/file/d/1WzQEUZ5d2GKEHzLO6Ms55typXyWi0oZs/view?usp=sharing)<br/><br/>
-Download LibTorch C++ API libraries **libtorch_cp37_1.10.0.tar.gz** from [Gdrive](https://drive.google.com/file/d/1WzQEUZ5d2GKEHzLO6Ms55typXyWi0oZs/view?usp=sharing)
-# PyTorch 1.9.0 for the Raspberry Pi 64-bit OS
-Please find your **linux-aarch64** installation wheel here. The **cpXX** number refers to your Python3 version.<br/><br/>
-## 64-bit OS (Python 3.7)
-PyTorch installation files for the Raspberry Pi 3/4 with 64-bit operating system.<br/><br/>
-For the installation guide see [Install PyTorch](https://qengineering.eu/install-pytorch-on-raspberry-pi-4.html) <br/><br/>
-Download PyTorch wheel **torch-1.9.0a0+gitd69c22d-cp37-cp37m-linux_aarch64.whl** from [Gdrive](https://drive.google.com/file/d/11utK8wExeejKP71rDZY-n8IPlrf9FI20/view?usp=sharing) <br/><br/>
-Download TorchVision wheel **torchvision-0.10.0a0+300a8a4-cp37-cp37m-linux_aarch64.whl** from [Gdrive](https://drive.google.com/file/d/11KzdItmC04egauwgd6ZXfl6E8ntXGUoW/view?usp=sharing)<br/><br/>
-Download LibTorch C++ API libraries **libTorch_1.9.0.tar.gz** from [Gdrive](https://drive.google.com/file/d/1lEm7rKXDvechRVCgUQN5UVpaiT8y5GuX/view?usp=sharing)
-## Ubuntu 20.04 (Python 3.8)
-PyTorch installation files for the Raspberry Pi 3/4 with Ubuntu 20.04 operating system.<br/><br/>
-Download PyTorch wheel **torch-1.9.0a0+gitd69c22d-cp38-cp38-linux_aarch64.whl** from [Gdrive](https://drive.google.com/file/d/18HYACm5LOYCx6al_HP1u7526pU6t5rYV/view?usp=sharing) <br/><br/>
-Download TorchVision wheel **torchvision-0.10.0a0+300a8a4-cp38-cp38-linux_aarch64.whl** from [Gdrive](https://drive.google.com/file/d/1wKJY9A8Rp6njfixWZrrqejjJstIqOGT1/view?usp=sharing)
-# PyTorch 1.8.1 for the Raspberry Pi 64-bit OS
-Please find your **linux-aarch64** installation wheel here. The **cpXX** number refers to your Python3 version.<br/><br/>
-## 64-bit OS (Python 3.7)
-PyTorch installation files for the Raspberry Pi 3/4 with 64-bit operating system.<br/><br/>
-For the installation guide see [Install PyTorch](https://qengineering.eu/install-pytorch-on-raspberry-pi-4.html) <br/><br/>
-Download PyTorch wheel **torch-1.8.1a0+56b43f4-cp37-cp37m-linux_aarch64.whl** from [Gdrive](https://drive.google.com/file/d/1PnKEuzg0JlqLKJBL6udZ-Mq44Buy0yaP/view?usp=sharing) <br/><br/>
-Download TorchVision wheel **torchvision-0.9.1a0+8fb5838-cp37-cp37m-linux_aarch64.whl** from [Gdrive](https://drive.google.com/file/d/1GSmkSWTaRMsRNaqR6PYeeH-vXRspHH3q/view?usp=sharing)<br/><br/>
-Download LibTorch C++ API libraries **libTorch_1.8.1.tar.gz** from [Gdrive](https://drive.google.com/file/d/12cFfpIAaOEFA479KmAaGnChCT1ipCFYH/view?usp=sharing)
-# PyTorch 1.8.0 for the Raspberry Pi 64-bit OS
-Please find your **linux-aarch64** installation wheel here. The **cpXX** number refers to your Python3 version.<br/><br/>
-## 64-bit OS (Python 3.7)
-PyTorch installation files for the Raspberry Pi 3/4 with 64-bit operating system.<br/><br/>
-For the installation guide see [Install PyTorch](https://qengineering.eu/install-pytorch-on-raspberry-pi-4.html) <br/><br/>
-Download PyTorch wheel **torch-1.8.0a0+37c1f4a-cp37-cp37m-linux_aarch64.whl** from [Gdrive](https://drive.google.com/file/d/1oJITMYYGrlJ66Jw62-PHQLSZO7PT7Wg8/view?usp=sharing) <br/><br/>
-Download TorchVision wheel **torchvision-0.9.0a0+01dfa8e-cp37-cp37m-linux_aarch64.whl** from [Gdrive](https://drive.google.com/file/d/1OSMSaokFF-NoGSCi2NsybVX7o_QBLw-q/view?usp=sharing)
-## Ubuntu 20.04 (Python 3.8)
-PyTorch installation files for the Raspberry Pi 3/4 with Ubuntu 20.04 operating system.<br/><br/>
-Download PyTorch wheel **torch-1.8.0a0+37c1f4a-cp38-cp38-linux_aarch64.whl** from [Gdrive](https://drive.google.com/file/d/1fgckCX8O5R_HeQacWPzigxsXd2ytwBGN/view?usp=sharing) <br/><br/>
-Download TorchVision wheel **torchvision-0.9.0a0+01dfa8e-cp38-cp38-linux_aarch64.whl** from [Gdrive](https://drive.google.com/file/d/15IRhB7yms6VYAJUfcVx9AN46oArFQUeu/view?usp=sharing)
-## Ubuntu 18.04 (Python 3.6)
-PyTorch installation files for the Raspberry Pi 3/4 with Ubuntu 18.04 operating system.<br/><br/>
-Download PyTorch wheel **torch-1.8.0a0+37c1f4a-cp36-cp36m-linux_aarch64.whl** from [Gdrive](https://drive.google.com/file/d/1BobSUT8HZeTfWbFtGomJYc2hjzobXesL/view?usp=sharing) <br/><br/>
-Download TorchVision wheel **torchvision-0.9.0a0+01dfa8e-cp36-cp36m-linux_aarch64.whl** from [Gdrive](https://drive.google.com/file/d/1nV9Z72saBrsFDYcfV7q-A0W8bM_bGjPM/view?usp=sharing)
+# PyTorch wheels for Raspberry Pi and Jetson
+![output image]( https://qengineering.eu/images/PyTorch_icon.webp )<br/><br/>
 
-------
+Find your operating system and Pytorch version in the table below. Follow the instructions in the provided guide.<br/>
 
-# PyTorch 1.7.1 for the Raspberry Pi 64-bit OS
-Please find your **linux-aarch64** installation wheel here. The **cpXX** number refers to your Python3 version.<br/><br/>
-## 64-bit OS (Python 3.7)
-PyTorch installation files for the Raspberry Pi 3/4 with 64-bit operating system.<br/><br/>
-For the installation guide see [Install PyTorch](https://qengineering.eu/install-pytorch-on-raspberry-pi-4.html) <br/><br/>
-Download PyTorch wheel **torch-1.7.1a0-cp37-cp37m-linux_aarch64.whl** from [Gdrive](https://drive.google.com/file/d/1gkcHqdAhpuDEhgeVlLZ3Eeshi_wDveK_/view?usp=sharing) <br/><br/>
-Download TorchVision wheel **torchvision-0.8.2a0+2f40a48-cp37-cp37m-linux_aarch64.whl** from [Gdrive](https://drive.google.com/file/d/1Yyc0sp4AXZ_Q5ZygsGB5iGNvC9EmJ-E6/view?usp=sharing)
-## Ubuntu 20.04 (Python 3.8)
-PyTorch installation files for the Raspberry Pi 3/4 with Ubuntu 20.04 operating system.<br/><br/>
-Download PyTorch wheel **torch-1.7.1a0-cp38-cp38-linux_aarch64.whl** from [Gdrive](https://drive.google.com/file/d/1ogJDflj4EOcPRmt5K4QCBax7so0Dfghk/view?usp=sharing) <br/><br/>
-Download TorchVision wheel **torchvision-0.8.2a0+2f40a48-cp38-cp38-linux_aarch64.whl** from [Gdrive](https://drive.google.com/file/d/1D56o5sWqVRJV823NX0N7lFVCareQzL2b/view?usp=sharing)
-## Ubuntu 18.04 (Python 3.6)
-PyTorch installation files for the Raspberry Pi 3/4 with Ubuntu 18.04 operating system.<br/><br/>
-Download PyTorch wheel **torch-1.7.1a0-cp36-cp36m-linux_aarch64.whl** from [Gdrive](https://drive.google.com/file/d/10AQdsA9sNLIrVj_DHwQTwPv1DDbZVADf/view?usp=sharing) <br/><br/>
-Download TorchVision wheel **torchvision-0.8.0a0+291f7e2-cp36-cp36m-linux_aarch64.whl** from [Gdrive](https://drive.google.com/file/d/10NC1ThTwKqV5endnvNEzCDXX7AKT5Hrd/view?usp=sharing)
+-----------------
 
-------
+## Roadmap.
+| Operating system  | PyTorch 1.10.0 |  PyTorch 1.9.0 |  PyTorch 1.8.0 |  PyTorch 1.7.0 |
+| ----------------- | :------: | :------: | :------: | :------: |
+| Raspberry Pi **64-bit Buster** | [Wheel](https://drive.google.com/file/d/1y-X1UGC43xUfnycJcuDp7tlyFi8QHxvs/view?usp=sharing)<br/>[Vision](https://drive.google.com/file/d/1uQgjrucNSfpliGBWeKUOuo4XGWiBaxQx/view?usp=sharing)<br/>[LibTorch](https://drive.google.com/file/d/1nC_gWNjFirZz74wV4z7t2un4ktCtlRpI/view?usp=sharing)<br/>[Guide](https://qengineering.eu/install-pytorch-on-raspberry-pi-4.html) | [Wheel](https://drive.google.com/file/d/18KztAf3W_kqFYP2f9uqLj3HBdhoMvVe4/view?usp=sharing)<br/>[Vision](https://drive.google.com/file/d/1XyYG6hHh7QYaLrvE-mByvhNK_0rLOd0G/view?usp=sharing)<br/>[LibTorch](https://drive.google.com/file/d/1yhFMxngRq_RY2DPWwqZ8wwNmzBBjzrHR/view?usp=sharing)<br/>[Guide](https://qengineering.eu/install-pytorch-on-raspberry-pi-4.html) | [Wheel](https://drive.google.com/file/d/1JF3x556B1ZPe7rp3ogyZiCJPCDsu57RY/view?usp=sharing)<br/>[Vision](https://drive.google.com/file/d/1isEX4w4oegkYpv7WalvYPkTpPCcI4CUR/view?usp=sharing)<br/>[LibTorch](https://drive.google.com/file/d/1kpAb7qIGD0ICy8HYHDGMiY0Yj-K-eGAP/view?usp=sharing)<br/>[Guide](https://qengineering.eu/install-pytorch-on-raspberry-pi-4.html) | [Wheel](https://drive.google.com/file/d/1o2PjvvKkHpYx7QMfMLUoNck7ZiE_TGgR/view?usp=sharing)<br/>[Vision](https://drive.google.com/file/d/1H3YLkOicAN78tBLAmzCx2lt_WBjjmFCz/view?usp=sharing)<br/>[LibTorch](https://drive.google.com/file/d/1XpdE-AG4QMz1HE8bDdpiKw1Fpl3Em0kK/view?usp=sharing)<br/>[Guide](https://qengineering.eu/install-pytorch-on-raspberry-pi-4.html) ||||||||
+| Raspberry Pi **64-bit Bullseye** | [Wheel](https://drive.google.com/file/d/10zJmU1f7PoxN8ARZol4mtbwok4G23XKZ/view?usp=sharing)<br/>[Vision](https://drive.google.com/file/d/1nX4uSoubwq8NB9k-2DF6LbPyiqwocgEW/view?usp=sharing)<br/>[LibTorch](https://drive.google.com/file/d/1z58SN6Inh3ka_jFs97LefBuvfGq9o1to/view?usp=sharing)<br/>[Guide](https://qengineering.eu/install-pytorch-on-raspberry-pi-4.html)| [Wheel](https://drive.google.com/file/d/1p9Sp5YmCJwIkmQIWkpuIkE4NgeYPOr-U/view?usp=sharing)<br/>[Vision](https://drive.google.com/file/d/13fKq1V-zLbLBWPw3zP4EZxyMXyOiJWPi/view?usp=sharing)<br/>[LibTorch](https://drive.google.com/file/d/1My9PPoa9oYv7ZaPdsoXq4FyqRCHHA_4c/view?usp=sharing)<br/>[Guide](https://qengineering.eu/install-pytorch-on-raspberry-pi-4.html) | [Wheel](https://drive.google.com/file/d/1E4bP9NAG5pDSXGWYPGsJ5uzFBq47VN14/view?usp=sharing)<br/>[Vision](https://drive.google.com/file/d/1mqNqUC1t0MekF5h1WCEqt3soKWhc6Py4/view?usp=sharing)<br/>[LibTorch](https://drive.google.com/file/d/1PrqFOPHxrbLGEMuxBTxYY-Ubjk-l88_Z/view?usp=sharing)<br/>[Guide](https://qengineering.eu/install-pytorch-on-raspberry-pi-4.html) |  ||||||||
+| Raspberry Pi **Ubuntu 18.04** |  |  |  |  ||  
+| Raspberry Pi **Ubuntu 20.04** ||||||
+| Jetson Nano JetPack 4.6 | [Wheel](https://drive.google.com/file/d/1TqC6_2cwqiYacjoLhLgrZoap6-sVL2sd/view?usp=sharing)<br/>[Vision](https://drive.google.com/file/d/1C7y6VSIBkmL2RQnVy8xF9cAnrrpJiJ-K/view?usp=sharing)<br/>[LibTorch](https://drive.google.com/file/d/1izv6kmcnqXk9i7-Ey-vldjC-CGfHOGCl/view?usp=sharing)<br/>[Guide](https://qengineering.eu/install-pytorch-on-jetson-nano.html)   || [Wheel](https://drive.google.com/file/d/1-XmTOEN0z1_-VVCI3DPwmcdC-eLT_-n3/view?usp=sharing)<br/>[Vision](https://drive.google.com/file/d/1BdvXkwUGGTTamM17Io4kkjIT6zgvf4BJ/view?usp=sharing)<br/>[Guide](https://qengineering.eu/install-pytorch-on-jetson-nano.html) | [Wheel](https://drive.google.com/file/d/1aWuKu8eqkZwVzFFvguVuwkj0zdCir9qX/view?usp=sharing)<br/>[Vision](https://drive.google.com/file/d/1aWuKu8eqkZwVzFFvguVuwkj0zdCir9qX/view?usp=sharing)<br/>[Guide](https://qengineering.eu/install-pytorch-on-jetson-nano.html) |
 
-# PyTorch 1.7.0 for the Raspberry Pi 64-bit OS
-Please find your **linux-aarch64** installation wheel here. The **cpXX** number refers to your Python3 version.<br/><br/>
-## 64-bit OS (Python 3.7)
-PyTorch installation files for the Raspberry Pi 3/4 with 64-bit operating system.<br/><br/>
-For the installation guide see [Install PyTorch](https://qengineering.eu/install-pytorch-on-raspberry-pi-4.html) <br/><br/>
-Download PyTorch wheel **torch-1.7.0a0-cp37-cp37m-linux_aarch64.whl** from [Gdrive](https://drive.google.com/file/d/1AV_Ci9b6r2Dm-xMLXwsBx_W1da6vN3lc/view?usp=sharing) <br/><br/>
-Download TorchVision wheel **torchvision-0.8.1a0+45f960c-cp37-cp37m-linux_aarch64.whl** from [Gdrive](https://drive.google.com/file/d/1z-Fvo9bvZRI_2K5hBn5LdsvENuio9H8W/view?usp=sharing)
-## Ubuntu 20.04 (Python 3.8)
-PyTorch installation files for the Raspberry Pi 3/4 with Ubuntu 20.04 operating system.<br/><br/>
-Download PyTorch wheel **torch-1.7.0a0-cp38-cp38-linux_aarch64.whl** from [Gdrive](https://drive.google.com/file/d/1w-1IVZNJ5-ySqwTk2lfFzvndN4_r5oXQ/view?usp=sharing) <br/><br/>
-Download TorchVision wheel **torchvision-0.8.1a0+45f960c-cp38-cp38-linux_aarch64.whl** from [Gdrive](https://drive.google.com/file/d/17oThh6GO0MC5Y7hdyrP0XjTlxtrVLuXT/view?usp=sharing)
-## Ubuntu 18.04 (Python 3.6)
-PyTorch installation files for the Raspberry Pi 3/4 with Ubuntu 18.04 operating system.<br/><br/>
-Download PyTorch wheel **torch-1.7.0a0-cp36-cp36m-linux_aarch64.whl** from [Gdrive](https://drive.google.com/file/d/1g1nXXD1uwFDjgdzR40-axzNYoHnEniVs/view?usp=sharing) <br/><br/>
-Download TorchVision wheel **torchvision-0.8.0a0+291f7e2-cp36-cp36m-linux_aarch64.whl** from [Gdrive](https://drive.google.com/file/d/10NC1ThTwKqV5endnvNEzCDXX7AKT5Hrd/view?usp=sharing)
+We compiled all wheels with the **clang** compiler to prevent issues with the ARM NEON registers and the GNU compiler.<br/>
+For instance [#61110](https://github.com/pytorch/pytorch/issues/61110) and [#65673](https://github.com/pytorch/pytorch/issues/65673).<br/><br/>
+![output image]( https://qengineering.eu/images/ClangRPi.png )<br/><br/>
+
+
+#### :heavy_exclamation_mark: C++ programmers please note
+It means that you should also use the clang compiler if you want to compile C++ code yourself.<br/>
+The GNU GCC compiler will give you 'no expression errors'.<br/>
+```
+# set clang compiler at the command line
+$ export CC=clang
+$ export CXX=clang++
+
+```
+Don't worry if you plan to use Python. It only applies to C++ users.<br/>
+
+-----------------
+
+![output image](https://qengineering.eu/images/SDcard16GB_tiny.jpg) Find PyTorch and TorchVision with other frameworks and deep-learning examples on our [SD-image](https://github.com/Qengineering/RPi-image)
+
+-----------------
+
+[![paypal](https://qengineering.eu/images/TipJarSmall4.png)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=CPZTM5BB3FCYL)
