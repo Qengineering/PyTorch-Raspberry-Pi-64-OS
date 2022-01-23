@@ -2,6 +2,7 @@
 ![output image]( https://qengineering.eu/images/PyTorch_icon.webp )<br/><br/>
 
 Find your operating system and Pytorch version in the table below. Follow the instructions in the provided guide.<br/>
+The Jetson Nano wheels can also be used on the (AGX) Xavier.<br/>
 
 -----------------
 
