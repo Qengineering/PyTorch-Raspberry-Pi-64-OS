@@ -3,14 +3,14 @@
 
 Find your operating system and Pytorch version in the table below. Follow the instructions in the provided guide.<br/>
 There is no Raspberry Pi 32-bit wheel available due to unsupported libraries.<br/>
-The Jetson Nano wheels supports **CUDA 10.2**, **cuDNN 8.0** and **NEON**. They can also be used on the (AGX) Xavier.<br/>
+The Jetson Nano wheels support **CUDA 10.2**, **cuDNN 8.0** and **NEON**. They can also be used on the (AGX) Xavier.<br/>
 
 -----------------
 
-Wheel: the installation wheel torch-_version_-cp**xx**-cp**xx**-linux_aarch64.whl (xx is the used python version)<br/>
-Vision: the accompanying torchvision.<br/>
-LibTorch: the C++ API for those who like to program. (The aarch64 version of libtorch-cxx11-abi-shared-with-deps-1.10.1+cpu.zip)<br/>
-Guide: link to the installation tutorial.<br/>
+**Wheel**: the installation wheel torch-_version_-cp**xx**-cp**xx**-linux_aarch64.whl (xx is the used python version)<br/>
+**Vision**: the accompanying torchvision.<br/>
+**LibTorch**: the C++ API for those who like to program. (The aarch64 version of libtorch-cxx11-abi-shared-with-deps-1.10.1+cpu.zip)<br/>
+**Guide**: link to the installation tutorial.<br/>
 ## Roadmap.
 | Operating system  | PyTorch 1.13.0 | PyTorch 1.12.0 | PyTorch 1.11.0 | PyTorch 1.10.0 |  PyTorch 1.9.0 |  PyTorch 1.8.0 |  PyTorch 1.7.0 |
 | ----------------- | :------: | :------: | :------: | :------: | :------: | :------: | :------: |
