@@ -7,6 +7,13 @@ The Jetson Nano wheels support **CUDA 10.2**, **cuDNN 8.0** and **NEON**. They c
 
 -----------------
 
+### Bookworm.
+If you have a Bookworm OS on your RPi4 or Rpi5, you can use the wheel provided by PyTorch.<br>
+The wheels here do not support Bookworm with its Python version 3.11.<br>
+Please see our site: [install pytorch on raspberry pi 5](https://qengineering.eu/install%20pytorch%20on%20raspberry%20pi%205.html).
+
+-----------------
+
 **Wheel**: the installation wheel torch-_version_-cp**xx**-cp**xx**-linux_aarch64.whl (xx is the used python version)<br/>
 **Vision**: the accompanying torchvision.<br/>
 **LibTorch**: the C++ API for those who like to program. (The aarch64 version of libtorch-cxx11-abi-shared-with-deps-1.10.1+cpu.zip)<br/>
